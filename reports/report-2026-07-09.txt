@@ -1,9 +1,10 @@
-==============================
- Daily Log Monitoring Report
-==============================
-Date: Thu Jul  9 15:19:29 WAT 2026
+======================================
+      DAILY LOG MONITORING REPORT
+======================================
+Date: Thu Jul  9 15:30:21 WAT 2026
 
-404 Errors: 0
-500 Errors: 0
+HTTP 404 Errors : 0
+HTTP 500 Errors : 0
+Failed SSH Logins : 3
 
 Report generated successfully.

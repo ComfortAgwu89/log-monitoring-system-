@@ -1,0 +1,4 @@
+Jul 9 10:12:01 ip-172-31-0-10 sshd[1234]: Failed password for ubuntu from 192.168.1.20 port 51432 ssh2
+Jul 9 10:15:43 ip-172-31-0-10 sshd[1235]: Failed password for admin from 192.168.1.21 port 51433 ssh2
+Jul 9 10:20:10 ip-172-31-0-10 sshd[1236]: Accepted password for ubuntu from 192.168.1.20 port 51434 ssh2
+Jul 9 10:25:15 ip-172-31-0-10 sshd[1237]: Failed password for root from 192.168.1.22 port 51435 ssh2
